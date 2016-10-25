@@ -1,0 +1,24 @@
+{
+  "name": "webpack-revise-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizbii/webpack-revise-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "revise"
+  ],
+  "author": "Wizbii <dev@wizbii.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizbii/webpack-revise-plugin/issues"
+  },
+  "homepage": "https://github.com/wizbii/webpack-revise-plugin#readme"
+}
