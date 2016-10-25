@@ -1,7 +1,7 @@
 {
   "name": "webpack-revise-plugin",
   "version": "0.0.1",
-  "description": "",
+  "description": "Wepback plugin to generate revised assets .rev files",
   "main": "index.js",
   "files": [
     "index.js"
